@@ -1,4 +1,4 @@
-package tycho.plugin.handlers;
+package com.example.tycho.handlers;
 
 import org.eclipse.core.commands.AbstractHandler;
 import org.eclipse.core.commands.ExecutionEvent;

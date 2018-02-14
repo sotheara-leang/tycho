@@ -1,4 +1,4 @@
-package tycho.plugin;
+package com.example.tycho;
 
 import org.eclipse.jface.resource.ImageDescriptor;
 import org.eclipse.ui.plugin.AbstractUIPlugin;

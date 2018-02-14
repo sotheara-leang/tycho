@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Application
-Bundle-SymbolicName: tycho.application;singleton:=true
+Bundle-SymbolicName: com.example.tycho.application;singleton:=true
 Bundle-Version: 0.0.1.qualifier
-Bundle-Activator: tycho.application.Activator
+Bundle-Activator: com.example.tycho.application.Activator
 Require-Bundle: javax.inject;bundle-version="0.0.0",
   org.eclipse.swt;bundle-version="0.0.0",
   org.eclipse.e4.ui.model.workbench;bundle-version="0.0.0",

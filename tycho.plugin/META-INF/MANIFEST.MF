@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Plugin
-Bundle-SymbolicName: tycho.plugin;singleton:=true
+Bundle-SymbolicName: com.example.tycho.plugin;singleton:=true
 Bundle-Version: 0.0.1.qualifier
-Bundle-Activator: tycho.plugin.Activator
+Bundle-Activator: com.example.tycho.Activator
 Require-Bundle: org.eclipse.ui,
   org.eclipse.core.runtime
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8

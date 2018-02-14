@@ -18,7 +18,7 @@
          point="org.eclipse.ui.handlers">
       <handler
             commandId="tycho.plugin.commands.sampleCommand"
-            class="tycho.plugin.handlers.SampleHandler">
+            class="com.example.tycho.handlers.SampleHandler">
       </handler>
    </extension>
    <extension
